@@ -1,4 +1,9 @@
-[<img src="https://media3.giphy.com/media/5owNSuvkqgLg1iqNrF/giphy.gif" width="600" alt="Animated Banner" />](https://github.com/your-username)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h1bjc0dTUyMDA0bW12Nm9zOHZtdHN4dGN1dXdkMjRjdTY2dHZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif" width="600" alt="Animated Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Mohamed Alaa 👋</h1>
+<h3 align="center">A Frontend Developer</h3>
 
 
 ### Languages
