@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h1bjc0dTUyMDA0bW12Nm9zOHZtdHN4dGN1dXdkMjRjdTY2dHZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif" width="600" alt="Animated Banner" />
+  <img src="https://raw.githubusercontent.com/Mohamed16Alaa/Mohamed16Alaa/main/assets/Blue%20Futuristic%20Business%20Presentation.gif" alt="Hi, I'm Mohamed Alaa — a Frontend Developer" width="1000"/>
 </p>
-
-<h1 align="center">Hi, I'm Mohamed Alaa 👋</h1>
-<h3 align="center">A Frontend Developer</h3>
 
 
 ### Languages
