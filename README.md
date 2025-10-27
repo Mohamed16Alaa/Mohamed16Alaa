@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed16Alaa/Mohamed16Alaa/main/assets/Blue%20Futuristic%20Business%20Presentation.gif" alt="Hi, I'm Mohamed Alaa — a Frontend Developer" width="1000"/>
+  <img src="https://raw.githubusercontent.com/Mohamed16Alaa/Mohamed16Alaa/main/assets/Blue%20Futuristic%20Business%20Presentation.gif" alt="Hi, I'm Mohamed Alaa — a Frontend Developer" width="750"/>
 </p>
 
 
