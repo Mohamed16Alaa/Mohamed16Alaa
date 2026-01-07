@@ -23,7 +23,7 @@
 
 ### Skills
 
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-000?&logo=Codeforces)
+[![Competitive Programming](https://img.shields.io/badge/-Problem%20Solving-000?logo=Codeforces)](https://codeforces.com/profile/_3laa_)
 ![Frontend Development](https://img.shields.io/badge/-Frontend%20Development-000?&logo=HTML5)
 ![Backend Trainee](https://img.shields.io/badge/-Backend%20Trainee-000?&logo=node.js)
 ![Teamwork](https://img.shields.io/badge/-Teamwork-000?&logo=Handshake)
